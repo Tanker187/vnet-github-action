@@ -1,4 +1,4 @@
-name: 'Tenderly Virtual TestNet Setup'
+name: 'Nod Virtual TestNet Setup'
 description: 'Sets up a Tenderly Virtual TestNet and exposes RPC link as an environment variable'
 inputs:
   mode:
